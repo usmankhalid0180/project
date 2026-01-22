@@ -134,7 +134,7 @@ The attendance system requires at least **ONE ADMIN** to function. Only admins c
 
 ---
 
-## 🧪 **Testing Guide (For Instructors/Evaluators)**
+## 🧪 **Testing Guide **
 
 ### **Quick Test Setup (5 minutes)**
 
@@ -406,3 +406,4 @@ Built with React, Flask, MySQL, Tailwind CSS, and ❤️
 **🚀 Ready to start? Follow the Quick Start guide above!**
 
 **Need detailed instructions? See [SETUP_GUIDE.md](SETUP_GUIDE.md)**
+
