@@ -379,15 +379,7 @@ DB_PORT=3306
 
 ---
 
-## 🤝 Support
 
-Having issues? Check in this order:
-
-1. [TROUBLESHOOTING.md](TROUBLESHOOTING.md) - Common problems
-2. [DATABASE_CONFIG.md](DATABASE_CONFIG.md) - Database setup
-3. [SETUP_GUIDE.md](SETUP_GUIDE.md) - Full installation guide
-4. Terminal error messages
-5. Browser console (F12)
 
 ---
 
@@ -405,5 +397,6 @@ Built with React, Flask, MySQL, Tailwind CSS, and ❤️
 
 **🚀 Ready to start? Follow the Quick Start guide above!**
 
-**Need detailed instructions? See [SETUP_GUIDE.md](SETUP_GUIDE.md)**
+
+
 
