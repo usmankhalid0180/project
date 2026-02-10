@@ -277,14 +277,7 @@ The attendance system requires at least **ONE ADMIN** to function. Only admins c
 
 ---
 
-## 📖 Additional Documentation
 
-Need more help? Check these guides:
-
-- **[SETUP_GUIDE.md](SETUP_GUIDE.md)** - Detailed installation instructions
-- **[DATABASE_CONFIG.md](DATABASE_CONFIG.md)** - Database credential setup
-- **[TROUBLESHOOTING.md](TROUBLESHOOTING.md)** - Common issues and solutions
-- **[DOCKER_SETUP.md](DOCKER_SETUP.md)** - Docker deployment (optional)
 
 ---
 
@@ -308,7 +301,7 @@ DB_NAME=user_auth_db
 DB_PORT=3306
 ```
 
-**📖 See [DATABASE_CONFIG.md](DATABASE_CONFIG.md) for detailed credential setup guide**
+
 
 ---
 
@@ -396,6 +389,7 @@ Built with React, Flask, MySQL, Tailwind CSS, and ❤️
 ---
 
 **🚀 Ready to start? Follow the Quick Start guide above!**
+
 
 
 
