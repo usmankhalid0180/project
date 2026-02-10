@@ -341,7 +341,7 @@ DB_PORT=3306
 **Database errors?**
 - Verify MySQL service is running
 - Check database user permissions
-- See [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
+
 
 ---
 
@@ -389,6 +389,7 @@ Built with React, Flask, MySQL, Tailwind CSS, and ❤️
 ---
 
 **🚀 Ready to start? Follow the Quick Start guide above!**
+
 
 
 
